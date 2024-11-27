@@ -38,7 +38,7 @@ const Policies = () => {
 
       <section className="policy-section">
         <h2>Términos y Condiciones </h2>
-        <p>
+        <p className="justified-text">
         1. Aceptación de términos
         Al descargar, acceder y usar esta aplicación (en adelante, "la App"), aceptas los términos y condiciones aquí descritos. Si no estás de acuerdo con alguno de estos términos, te recomendamos no usar la aplicación.
         <br/><br/>
